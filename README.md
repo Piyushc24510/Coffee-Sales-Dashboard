@@ -80,7 +80,7 @@ Coffee-Shop-Sales-Dashboard/
 
 > Add a screenshot of your dashboard here.
 
----
+<img width="1702" height="877" alt="coffee sales " src="https://github.com/user-attachments/assets/2978927c-61ae-4cc8-9044-14584cdc63b6" />
 
 ## 🚀 Skills Demonstrated
 
@@ -100,5 +100,3 @@ Coffee-Shop-Sales-Dashboard/
 
 * 💼 LinkedIn: https://www.linkedin.com/in/piyushchawla08
 * 💻 GitHub: https://github.com/Piyushc24510
-
-<img width="1702" height="877" alt="coffee sales " src="https://github.com/user-attachments/assets/2978927c-61ae-4cc8-9044-14584cdc63b6" />
