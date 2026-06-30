@@ -1,101 +1,103 @@
-# ☕ Coffee Shop Dashboard
+# ☕ Coffee Sales Dashboard
+
+An interactive **Microsoft Excel Dashboard** built to analyze coffee shop sales performance across multiple cities and years. This project transforms raw sales transaction data into meaningful business insights through dynamic visualizations, KPI tracking, and interactive filtering.
+
+---
 
 ## 📊 Overview
 
-An interactive **Microsoft Excel** dashboard built to analyze coffee shop sales performance across multiple store locations. The dashboard provides actionable insights into revenue, customer footfall, product performance, and sales trends through dynamic visualizations and KPI tracking.
+This dashboard provides a comprehensive view of coffee shop sales by tracking key business metrics such as transactions, revenue, profit, quantity sold, category performance, weekday trends, and city-wise sales distribution.
 
 ---
 
 ## 🎯 Problem Statement
 
-The business required a centralized dashboard to monitor sales performance, identify peak business hours, compare store locations, and analyze customer purchasing behavior. The goal was to replace manual reporting with an interactive, data-driven solution for faster decision-making.
+The objective was to convert raw transactional data into an interactive dashboard that enables stakeholders to monitor sales performance, identify business trends, compare city-wise revenue, and support data-driven decision-making.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Microsoft Excel
-* Power Query
-* Pivot Tables
-* Pivot Charts
-* Slicers
-* Conditional Formatting
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
 
 ---
 
 ## 🔍 What I Did
 
-* 🟩 Cleaned and transformed raw sales transaction data using Power Query.
-* 🟩 Built dynamic Pivot Tables to calculate key business KPIs.
-* 🟩 Designed an interactive dashboard with Month and Day slicers.
-* 🟩 Analyzed sales trends, customer footfall, and product performance.
-* 🟩 Compared revenue and transactions across multiple store locations.
-* 🟩 Created KPI cards and visualizations for business reporting.
+- ✅ Cleaned and transformed raw sales data using Excel.
+- ✅ Created Pivot Tables and Pivot Charts for dynamic reporting.
+- ✅ Designed an interactive dashboard with Year, Month, and City slicers.
+- ✅ Built KPI cards to monitor business performance.
+- ✅ Analyzed sales trends, revenue, profit, and transaction volume.
+- ✅ Visualized category-wise, weekday-wise, monthly, and city-wise performance.
 
 ---
 
-## 📈 Key Insights
+## 📈 Dashboard KPIs
 
-| KPI                            | Value              |
-| ------------------------------ | ------------------ |
-| 💰 Total Sales                 | **$698,812.33**    |
-| 👣 Total Footfall              | **149,116**        |
-| 🧾 Average Bill per Customer   | **$4.69**          |
-| 📦 Average Orders per Customer | **1.44**           |
-| ☕ Best-Selling Category        | **Coffee**         |
-| 📍 Highest Footfall Store      | **Hell's Kitchen** |
-| ⏰ Peak Sales Hours             | **9 AM – 11 AM**   |
+| Metric | Value |
+|--------|-------:|
+| 💳 Transactions | **9,971** |
+| 📦 Total Quantity | **1,411** |
+| 💰 Total Revenue | **$46,374** |
+| 💵 Total Profit | **$16,231** |
 
 ---
 
-## 💡 Business Impact
+## 💡 Key Insights
 
-* Identified **9 AM–11 AM** as the busiest sales window, enabling better staffing and inventory planning.
-* Compared store performance to highlight differences in customer traffic and revenue generation.
-* Revealed product category trends to support inventory optimization and promotional strategies.
-* Delivered an interactive dashboard that enables quick, data-driven business decisions.
-
----
-
-## 📂 Repository Structure
-
-```text
-Coffee-Shop-Sales-Dashboard/
-│
-├── Data/
-│   └── Coffee Shop Sales Data.xlsx
-│
-├── Dashboard/
-│   └── Coffee Shop Sales Dashboard.xlsx
-│
-├── Images/
-│   └── Dashboard Preview.png
-│
-└── README.md
-```
+- ☕ **Desserts** recorded the highest number of transactions (**2,522**).
+- 📅 **Friday** generated the highest transaction count (**1,498**).
+- 🌆 **Chicago** contributed the largest share of revenue (**24%**).
+- 📈 Revenue remained consistent across **2021, 2022, and 2023**.
+- 📊 Monthly revenue and profit showed stable business performance throughout the year.
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-> Add a screenshot of your dashboard here.
-
-<img width="1702" height="877" alt="coffee sales " src="https://github.com/user-attachments/assets/2978927c-61ae-4cc8-9044-14584cdc63b6" />
-
-## 🚀 Skills Demonstrated
-
-* Data Cleaning
-* Data Analysis
-* Dashboard Development
-* KPI Reporting
-* Microsoft Excel
-* Power Query
-* Pivot Tables & Pivot Charts
-* Business Intelligence
-* Data Visualization
+<p align="center">
+  <img src="Images/Coffee Sales Dashboard.png" alt="Coffee Sales Dashboard" width="100%">
+</p>
 
 ---
 
+## 📂 Repository Structure
+
+```
+Coffee-Sales-Dashboard/
+│
+├── Data/
+│   └── Coffee Shop Sales Data.xlsx
+│
+├── Dashboard/
+│   └── Coffee Sales Dashboard.xlsx
+│
+├── Images/
+│   └── Coffee Sales Dashboard.png
+│
+└── README.md
+```
+
+---
+## 🚀 Skills Demonstrated
+
+- Microsoft Excel
+- Power Query
+- Data Cleaning
+- Data Analysis
+- Dashboard Development
+- Business Intelligence
+- KPI Reporting
+- Pivot Tables
+- Pivot Charts
+- Data Visualization
+---
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/piyushchawla08
