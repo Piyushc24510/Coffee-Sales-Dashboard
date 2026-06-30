@@ -35,6 +35,8 @@ The dashboard enables users to monitor key performance metrics such as total rev
 * Evaluate profit margins to support pricing decisions.
 * Monitor sales performance using interactive KPIs.
 
+<img width="1702" height="877" alt="coffee sales " src="https://github.com/user-attachments/assets/2978927c-61ae-4cc8-9044-14584cdc63b6" />
+
 ## 🎯 Project Objective
 
 The objective of this project is to demonstrate practical data analysis and dashboard development skills by converting raw coffee shop transaction data into an interactive business dashboard. It showcases the ability to clean data, build insightful visualizations, and communicate business performance effectively using Excel.
