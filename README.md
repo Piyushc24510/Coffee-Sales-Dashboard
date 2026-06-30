@@ -1,44 +1,104 @@
-# Coffee-Sales-Dashboard
-📊 An interactive Excel dashboard that analyzes coffee shop sales using Pivot Tables, charts, KPIs, and slicers to deliver actionable business insights.
+# ☕ Coffee Shop Dashboard
 
- # ☕ Coffee Shop Sales Dashboard
+## 📊 Overview
 
-The Coffee Shop Sales Dashboard is an interactive Business Intelligence project built to analyze and visualize coffee shop sales performance. Using Microsoft Excel, the dashboard transforms raw transactional data into meaningful business insights through dynamic charts, KPIs, and pivot tables.
+An interactive **Microsoft Excel** dashboard built to analyze coffee shop sales performance across multiple store locations. The dashboard provides actionable insights into revenue, customer footfall, product performance, and sales trends through dynamic visualizations and KPI tracking.
 
-The dashboard enables users to monitor key performance metrics such as total revenue, quantity sold, profit margin, top-performing products, branch performance, city-wise sales, and monthly sales trends. Interactive filters and slicers allow users to explore the data from multiple perspectives, supporting informed business decisions and performance evaluation.
+---
 
-## ✨ Key Features
+## 🎯 Problem Statement
 
-* 📊 Interactive dashboard with dynamic slicers
-* 💰 Analysis of total revenue, sales, and profit margin
-* 🛍️ Product category performance analysis
-* 🏪 Branch-wise and city-wise sales comparison
-* 📅 Monthly and weekday sales trend analysis
-* 📈 KPI cards for business performance monitoring
-* 🔄 Pivot Tables and Pivot Charts for interactive reporting
-* 🎯 Clean and user-friendly dashboard layout
+The business required a centralized dashboard to monitor sales performance, identify peak business hours, compare store locations, and analyze customer purchasing behavior. The goal was to replace manual reporting with an interactive, data-driven solution for faster decision-making.
 
-## 🛠️ Tools & Technologies
+---
+
+## 🛠️ Tech Stack
 
 * Microsoft Excel
+* Power Query
 * Pivot Tables
 * Pivot Charts
 * Slicers
-* Data Cleaning & Transformation
-* Business Intelligence & Data Visualization
+* Conditional Formatting
 
-## 📌 Business Insights
+---
 
-* Identify top-performing products and categories.
-* Compare sales performance across branches and cities.
-* Track monthly revenue trends and seasonal demand.
-* Evaluate profit margins to support pricing decisions.
-* Monitor sales performance using interactive KPIs.
+## 🔍 What I Did
+
+* 🟩 Cleaned and transformed raw sales transaction data using Power Query.
+* 🟩 Built dynamic Pivot Tables to calculate key business KPIs.
+* 🟩 Designed an interactive dashboard with Month and Day slicers.
+* 🟩 Analyzed sales trends, customer footfall, and product performance.
+* 🟩 Compared revenue and transactions across multiple store locations.
+* 🟩 Created KPI cards and visualizations for business reporting.
+
+---
+
+## 📈 Key Insights
+
+| KPI                            | Value              |
+| ------------------------------ | ------------------ |
+| 💰 Total Sales                 | **$698,812.33**    |
+| 👣 Total Footfall              | **149,116**        |
+| 🧾 Average Bill per Customer   | **$4.69**          |
+| 📦 Average Orders per Customer | **1.44**           |
+| ☕ Best-Selling Category        | **Coffee**         |
+| 📍 Highest Footfall Store      | **Hell's Kitchen** |
+| ⏰ Peak Sales Hours             | **9 AM – 11 AM**   |
+
+---
+
+## 💡 Business Impact
+
+* Identified **9 AM–11 AM** as the busiest sales window, enabling better staffing and inventory planning.
+* Compared store performance to highlight differences in customer traffic and revenue generation.
+* Revealed product category trends to support inventory optimization and promotional strategies.
+* Delivered an interactive dashboard that enables quick, data-driven business decisions.
+
+---
+
+## 📂 Repository Structure
+
+```text
+Coffee-Shop-Sales-Dashboard/
+│
+├── Data/
+│   └── Coffee Shop Sales Data.xlsx
+│
+├── Dashboard/
+│   └── Coffee Shop Sales Dashboard.xlsx
+│
+├── Images/
+│   └── Dashboard Preview.png
+│
+└── README.md
+```
+
+---
+
+## 🖼️ Dashboard Preview
+
+> Add a screenshot of your dashboard here.
+
+---
+
+## 🚀 Skills Demonstrated
+
+* Data Cleaning
+* Data Analysis
+* Dashboard Development
+* KPI Reporting
+* Microsoft Excel
+* Power Query
+* Pivot Tables & Pivot Charts
+* Business Intelligence
+* Data Visualization
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/piyushchawla08
+* 💻 GitHub: https://github.com/Piyushc24510
 
 <img width="1702" height="877" alt="coffee sales " src="https://github.com/user-attachments/assets/2978927c-61ae-4cc8-9044-14584cdc63b6" />
-
-## 🎯 Project Objective
-
-The objective of this project is to demonstrate practical data analysis and dashboard development skills by converting raw coffee shop transaction data into an interactive business dashboard. It showcases the ability to clean data, build insightful visualizations, and communicate business performance effectively using Excel.
-
-This project highlights skills in **Data Analysis, Excel Dashboarding, Business Intelligence, KPI Reporting, and Data Visualization**, making it an excellent portfolio project for **Data Analyst**, **Business Analyst**, and **BI Developer** roles.
